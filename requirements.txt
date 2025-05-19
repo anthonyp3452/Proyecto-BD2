@@ -1,0 +1,3 @@
+cx_Oracle
+pyodbc
+mysql-connector-python
